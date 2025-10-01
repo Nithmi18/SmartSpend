@@ -1,5 +1,5 @@
 # SmartSpend
-SmartSpend is a mobile app I created to keep track of your money.
+SmartSpend is a mobile app I created to keep track of your money. Below are screenshots of my app.
 
 ![App Screenshot](assets/1.png)
 ![App Screenshot](assets/2.png)
