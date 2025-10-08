@@ -111,11 +111,3 @@ SmartSpend stores all user data securely on the device (or optionally in the clo
 📧 [[itz.nithmi@gmail.com](mailto:itz.nithmi@gmail.com)]
 🧾 Project for [SLIIT - Mobile Application Development IT2010]
 📅 Year: 2025
-
-
-
----
-
-Would you like me to adapt this for **GitHub style (with badges, icons, and shields)** or for a **university submission format (cleaner, PDF-style without markdown icons)?**
-
-
