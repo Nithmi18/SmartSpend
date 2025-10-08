@@ -71,7 +71,7 @@ SmartSpend/
 
 ## 🖼️ Screenshots
 
-| Get Sarted Page                    | Dashboard                              | Transaction                    |
+| Get Started Page                   | Dashboard                              | Transactions                   |
 | ---------------------------------- | -------------------------------------- | ------------------------------ |
 | ![App Screenshot](assets/1.png)    |   ![App Screenshot](assets/2.png)      |![App Screenshot](assets/3.png) |
 
